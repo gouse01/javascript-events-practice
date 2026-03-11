@@ -1,0 +1,15 @@
+.light{
+    background-color: white;
+    color: black;
+}
+
+.dark{
+    background-color: black;
+    color: white;
+}
+
+button{
+    padding:10px;
+    font-size:18px;
+    cursor:pointer;
+}
